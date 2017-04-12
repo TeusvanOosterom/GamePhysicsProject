@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F8AA603E-31E6-BADB-35C6-9ED22317B32D}") = "GamePhysicsProject", "Assembly-CSharp-firstpass.csproj", "{17A073F1-F1C8-7F68-6390-713D80879862}"
+EndProject
+Project("{F8AA603E-31E6-BADB-35C6-9ED22317B32D}") = "GamePhysicsProject", "Assembly-CSharp.csproj", "{CCD855C8-AB7D-DE09-1CC1-6CBC03219732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A073F1-F1C8-7F68-6390-713D80879862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A073F1-F1C8-7F68-6390-713D80879862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A073F1-F1C8-7F68-6390-713D80879862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A073F1-F1C8-7F68-6390-713D80879862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD855C8-AB7D-DE09-1CC1-6CBC03219732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD855C8-AB7D-DE09-1CC1-6CBC03219732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD855C8-AB7D-DE09-1CC1-6CBC03219732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD855C8-AB7D-DE09-1CC1-6CBC03219732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
